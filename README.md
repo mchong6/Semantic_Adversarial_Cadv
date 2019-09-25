@@ -5,7 +5,7 @@ This code implements the cAdv attack in Unrestricted Semantic Adversarial Attack
 
 Original Image of class Umbrella
 
-<img src="test_images/n04507155_191.JPEG">
+<img src="test_images/n04507155_191.JPEG" width="224" height="224">
 
 Output Image of class Golfcart
 
