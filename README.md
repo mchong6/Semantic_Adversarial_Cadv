@@ -24,3 +24,6 @@ $ python test.py --num_iter 500 --targeted 1 --target 575 --gpu 0
 ```
 num_iter is the number of update steps for the attack. Set targeted to 0 for untargeted attack.
 
+### Acknowledgements
+This work and code is heavily based on <https://github.com/richzhang/colorization-pytorch>
+
