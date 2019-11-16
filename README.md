@@ -32,7 +32,8 @@ If you use our code for your research, please cite us
   author={Bhattad, Anand and Chong, Min Jin and Liang, Kaizhao and Li, Bo and Forsyth, David A},
   journal={arXiv preprint arXiv:1904.06347},
   year={2019}
-}```
+}
+```
 
 ## Acknowledgements
 This work and code is heavily based on <https://github.com/richzhang/colorization-pytorch>
